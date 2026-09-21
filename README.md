@@ -5,9 +5,9 @@
 <br>
 
 <img src="https://img.shields.io/badge/DEVELOPER-IN%20PROGRESS-22D3EE?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/CYBERSECURITY-INTEREST-8B5CF6?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-CORE-8B5CF6?style=for-the-badge&labelColor=0B1120"/>
 <img src="https://img.shields.io/badge/LINUX-EXPLORING-22C55E?style=for-the-badge&logo=linux&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-EC4899?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-INTEREST-EC4899?style=for-the-badge&labelColor=0B1120"/>
 
 <br><br>
 
@@ -17,14 +17,13 @@
 │   $ whoami                                                           │
 │   budheswarsoren                                                     │
 │                                                                      │
-│   $ echo "Developer journey initialized..."                          │
+│   $ echo "Developer journey initialized..."                         │
 │                                                                      │
 │   [████████████████████████████████████████████████] 100%            │
 │                                                                      │
 │   ✓ profile loaded                                                   │
 │   ✓ development environment ready                                    │
 │   ✓ learning mode active                                             │
-│   ✓ curiosity detected                                               │
 │                                                                      │
 ╰──────────────────────────────────────────────────────────────────────╯
 ```
@@ -43,9 +42,9 @@
 
 I'm a **BSc Computer Science student** at **Dhenkanal Autonomous College**, currently in my **2nd year**.
 
-I'm interested in **software development, programming, technology and cybersecurity**. I enjoy learning through experimentation, understanding how systems work, and gradually turning what I learn into practical skills.
+I'm interested in **software development, programming, databases, computer systems, technology and cybersecurity**.
 
-Right now, I'm focused on strengthening my fundamentals and building my path toward becoming a better developer.
+I'm currently building my foundation across programming, core computer science subjects and development tools while exploring areas that interest me beyond the classroom.
 
 ```python
 while learning:
@@ -65,9 +64,11 @@ while learning:
 ├─────────────────────────────┤
 │                             │
 │ NAME      : Budheswar       │
-│ ROLE      : Student         │
+│ ROLE      : CS Student      │
 │ DOMAIN    : Development     │
-│ INTEREST  : Cybersecurity   │
+│ CODE      : C/C++/Python    │
+│ DATABASE  : MySQL / DBMS    │
+│ TOOLS     : VS Code / Git   │
 │ OS        : Linux Explorer  │
 │ MODE      : Learning        │
 │ STATUS    : ● ONLINE        │
@@ -99,15 +100,17 @@ while learning:
 
 <td width="50%" align="center">
 
-### 🧭 Current Direction
+### 📚 Academic Focus
 
 `Programming`
 
 `Data Structures`
 
-`Web Development`
+`Computer Systems`
 
-`Cybersecurity`
+`Databases`
+
+`Web Technologies`
 
 </td>
 </tr>
@@ -129,9 +132,10 @@ while learning:
 C
 C++
 Python
+Java
 
+OOP using C++
 Data Structures
-Algorithms
 Problem Solving
 Programming Fundamentals
 ```
@@ -140,16 +144,14 @@ Programming Fundamentals
 
 <td width="50%" valign="top">
 
-### 🌐 Development
+### 🗄️ Databases
 
 ```text
-HTML
-CSS
-JavaScript
-
-Git
-GitHub
-Development Fundamentals
+DBMS
+MySQL
+SQL
+Database Fundamentals
+Data Management
 ```
 
 </td>
@@ -158,28 +160,60 @@ Development Fundamentals
 <tr>
 <td valign="top">
 
-### 🔐 Cybersecurity
+### 🧠 Core Computer Science
 
 ```text
-Linux Fundamentals
-Networking Concepts
-Web Security
-Security Fundamentals
-Ethical Hacking Concepts
+DMS
+Computer Organization
+Operating Systems
+Software Engineering
+Artificial Intelligence
 ```
 
 </td>
 
 <td valign="top">
 
-### 🧠 Exploring
+### 🌐 Development & Graphics
 
 ```text
-Open Source
-Developer Tools
+Web Technologies
+OpenGL
+Web Fundamentals
+Graphics Concepts
+Development Workflow
+```
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🛠️ Tools & Environment
+
+```text
+VS Code
+Anaconda
+Git
+GitHub
+Linux
+Terminal
+```
+
+</td>
+
+<td valign="top">
+
+### 🔐 Technical Interests
+
+```text
+Cybersecurity
+Linux
+Networking
+Web Security
 Systems
-New Technologies
-Practical Learning
+Technology
 ```
 
 </td>
@@ -192,21 +226,86 @@ Practical Learning
 
 <div align="center">
 
-### `// languages`
+### `// programming`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
-
-<br><br>
-
-### `// web`
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
 
 <br><br>
 
-### `// environment`
+### `// database`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br><br>
+
+### `// tools`
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,anaconda"/>
+
+<br><br>
+
+### `// development areas`
+
+`Data Structures`   `DBMS`   `OOP`   `Web Technologies`   `OpenGL`
+
+</div>
+
+---
+
+## `$ ./stack_overview.sh`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `PROGRAMMING`
+
+💻 C
+⚙️ C++
+🐍 Python
+☕ Java
+🧩 OOP
+
+</td>
+
+<td align="center" width="25%">
+
+### `CORE CS`
+
+🧩 Data Structures
+🗄️ DBMS
+🖥️ OS
+⚙️ Computer Organization
+📐 DMS
+
+</td>
+
+<td align="center" width="25%">
+
+### `DEVELOPMENT`
+
+🌐 Web Technologies
+🎨 OpenGL
+🤖 AI
+🛠️ Software Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### `TOOLS`
+
+💙 VS Code
+🧪 Anaconda
+🐧 Linux
+🔧 Git
+🐙 GitHub
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -216,27 +315,51 @@ Practical Learning
 
 ```mermaid
 flowchart LR
-    A["🎓 BSc Computer Science"] --> B["💻 Programming"]
-    B --> C["🧩 Data Structures & Algorithms"]
-    C --> D["🌐 Web Development"]
-    D --> E["🐧 Linux & Systems"]
-    E --> F["🔐 Cybersecurity"]
-    F --> G["🚀 Practical Projects"]
 
-    B -.-> H["🧠 Problem Solving"]
-    E -.-> I["🌐 Networking"]
-    F -.-> J["🛡️ Security Fundamentals"]
+    A["🎓 BSc Computer Science"]
+
+    A --> B["💻 Programming"]
+    A --> C["🧩 Core CS"]
+    A --> D["🗄️ Databases"]
+    A --> E["🌐 Development"]
+    A --> F["🛠️ Tools"]
+    A --> G["🔐 Security Interest"]
+
+    B --> B1["C"]
+    B --> B2["C++"]
+    B --> B3["Python"]
+    B --> B4["Java"]
+    B --> B5["OOP using C++"]
+
+    C --> C1["Data Structures"]
+    C --> C2["DMS"]
+    C --> C3["Computer Organization"]
+    C --> C4["Operating Systems"]
+    C --> C5["Software Engineering"]
+    C --> C6["Artificial Intelligence"]
+
+    D --> D1["DBMS"]
+    D --> D2["MySQL / SQL"]
+
+    E --> E1["Web Technologies"]
+    E --> E2["OpenGL"]
+
+    F --> F1["VS Code"]
+    F --> F2["Anaconda"]
+    F --> F3["Git / GitHub"]
+    F --> F4["Linux"]
+
+    G --> G1["Networking"]
+    G --> G2["Web Security"]
+    G --> G3["Security Fundamentals"]
 
     style A fill:#111827,stroke:#22D3EE,color:#FFFFFF
     style B fill:#0F172A,stroke:#22D3EE,color:#FFFFFF
     style C fill:#0F172A,stroke:#8B5CF6,color:#FFFFFF
     style D fill:#0F172A,stroke:#EC4899,color:#FFFFFF
-    style E fill:#0F172A,stroke:#22C55E,color:#FFFFFF
-    style F fill:#0F172A,stroke:#F59E0B,color:#FFFFFF
-    style G fill:#111827,stroke:#22D3EE,color:#FFFFFF
-    style H fill:#111827,stroke:#64748B,color:#FFFFFF
-    style I fill:#111827,stroke:#64748B,color:#FFFFFF
-    style J fill:#111827,stroke:#64748B,color:#FFFFFF
+    style E fill:#0F172A,stroke:#F59E0B,color:#FFFFFF
+    style F fill:#0F172A,stroke:#22C55E,color:#FFFFFF
+    style G fill:#0F172A,stroke:#EF4444,color:#FFFFFF
 ```
 
 ---
@@ -246,53 +369,39 @@ flowchart LR
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT ROADMAP                      ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Programming Fundamentals                               ║
-║       │                                                      ║
-║       ├──► [✓] C / C++ / Python                              ║
-║       │                                                      ║
-║       ├──► [~] Data Structures & Algorithms                  ║
-║       │                                                      ║
-║       ├──► [~] Web Development                               ║
-║       │                                                      ║
-║       ├──► [~] Linux & Systems                               ║
-║       │                                                      ║
-║       ├──► [~] Cybersecurity Fundamentals                    ║
-║       │                                                      ║
-║       └──► [ ] Build Real Projects                           ║
-║                                                              ║
-║                    [ NEXT LEVEL ]                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-`[✓] Familiar` `[~] Learning` `[ ] Future`
-
-</div>
-
----
-
-## `$ systemctl status development`
-
-<div align="center">
-
-```text
-● development.service - Personal Growth
-
-   Loaded:     enabled
-   Active:     active (learning)
-
-   Programming        [██████████████████░░] 90%
-   Problem Solving    [███████████████░░░░░] 75%
-   Data Structures    [██████████████░░░░░░] 70%
-   Web Development    [████████████░░░░░░░░] 60%
-   Linux              [███████████░░░░░░░░░] 55%
-   Cybersecurity      [██████████░░░░░░░░░░] 50%
-
-   Status: continuously improving...
+╔══════════════════════════════════════════════════════════════════╗
+║                        LEARNING ROADMAP                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  PROGRAMMING                                                     ║
+║      │                                                           ║
+║      ├── C                                                       ║
+║      ├── C++                                                     ║
+║      ├── Python                                                   ║
+║      └── Java                                                     ║
+║                                                                  ║
+║  CORE COMPUTER SCIENCE                                           ║
+║      │                                                           ║
+║      ├── Data Structures                                         ║
+║      ├── DMS                                                      ║
+║      ├── Computer Organization                                   ║
+║      ├── Operating Systems                                      ║
+║      ├── Software Engineering                                   ║
+║      └── Artificial Intelligence                                ║
+║                                                                  ║
+║  DATABASES                                                        ║
+║      │                                                           ║
+║      ├── DBMS                                                     ║
+║      └── MySQL / SQL                                              ║
+║                                                                  ║
+║  DEVELOPMENT                                                      ║
+║      │                                                           ║
+║      ├── Web Technologies                                         ║
+║      └── OpenGL                                                    ║
+║                                                                  ║
+║  NEXT → PRACTICAL PROJECTS 🚀                                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -304,37 +413,62 @@ flowchart LR
 <div align="center">
 
 ```text
-┌────────────┐
-│    IDEA    │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│   LEARN    │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│ EXPERIMENT │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│   BUILD    │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│   DEBUG    │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│ UNDERSTAND │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│  IMPROVE   │
-└─────┬──────┘
-      ▼
-┌────────────┐
-│   REPEAT   │
-└────────────┘
+        ┌─────────────┐
+        │     IDEA    │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │    LEARN    │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │ EXPERIMENT  │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │     CODE    │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │    DEBUG    │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │ UNDERSTAND  │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │   IMPROVE   │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │    REPEAT   │
+        └─────────────┘
+```
+
+</div>
+
+---
+
+## `$ systemctl status development`
+
+<div align="center">
+
+```text
+● development.service - Computer Science Learning
+
+   Loaded: enabled
+   Active: active (learning)
+
+   Programming            [██████████████████░░] 90%
+   Data Structures        [████████████████░░░░] 80%
+   DBMS / SQL             [███████████████░░░░░] 75%
+   Computer Systems       [█████████████░░░░░░░] 65%
+   Web Technologies       [████████████░░░░░░░░] 60%
+   Linux                  [███████████░░░░░░░░░] 55%
+   Cybersecurity          [██████████░░░░░░░░░░] 50%
+
+   Status: continuously improving...
 ```
 
 </div>
@@ -382,9 +516,9 @@ flowchart LR
 
 <td align="center" width="20%">
 
-### 🔐
+### 🧠
 
-**CYBERSECURITY**
+**LEARNING**
 
 </td>
 
@@ -393,46 +527,9 @@ flowchart LR
 
 <br>
 
-`Football` • `Gaming` • `Exploring` • `Technology` • `Learning`
+`Football` • `Gaming` • `Exploring` • `Technology` • `Cybersecurity`
 
 </div>
-
----
-
-## `$ cat personality.conf`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```ini
-[INTERESTS]
-
-football = true
-gaming = true
-exploring = true
-technology = true
-learning = true
-cybersecurity = true
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-```ini
-[WORKFLOW]
-
-curiosity = high
-experimentation = active
-problem_solving = developing
-consistency = improving
-creativity = active
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -443,20 +540,47 @@ creativity = active
 ```text
 On branch main
 
-Your learning journey is currently evolving.
+Current learning modules:
 
-Changes not staged:
-  modified: programming
-  modified: problem-solving
-  modified: web-development
-  modified: cybersecurity
+  [ACTIVE]  Programming
+  [ACTIVE]  Data Structures
+  [ACTIVE]  DBMS / MySQL
+  [ACTIVE]  Computer Systems
+  [ACTIVE]  Web Technologies
+  [ACTIVE]  Software Engineering
+  [EXPLORING] AI
+  [EXPLORING] Linux
+  [EXPLORING] Cybersecurity
+  [EXPLORING] OpenGL
 
 Untracked:
   future-projects/
 
 nothing is finished.
-everything is a work in progress.
+everything is learning.
 ```
+
+</div>
+
+---
+
+## `$ cat philosophy.txt`
+
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  Learn the concept.                                          │
+│  Understand the system.                                      │
+│  Experiment with the code.                                   │
+│  Build something practical.                                  │
+│  Keep improving.                                             │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+### `Curiosity → Experimentation → Understanding → Growth`
 
 </div>
 
@@ -504,24 +628,6 @@ everything is a work in progress.
 
 ---
 
-## `$ cat philosophy.txt`
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  "Understand the technology, don't just use it."             │
-│                                                              │
-│  Learn → Experiment → Build → Break → Understand → Improve   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
 ## `$ ./connect.sh`
 
 <div align="center">
@@ -532,7 +638,7 @@ everything is a work in progress.
 │   NETWORK INTERFACE                                  │
 │                                                      │
 │   [01] LinkedIn    → professional                   │
-│   [02] Instagram  → personal                        │
+│   [02] Instagram  → social                          │
 │                                                      │
 │   connection_status: available                      │
 │                                                      │
@@ -568,11 +674,15 @@ everything is a work in progress.
 │   Education            : BSc Computer Science                │
 │   College              : Dhenkanal Autonomous College        │
 │   Year                 : 2nd Year                            │
-│   Development          : ACTIVE                              │
-│   Linux                : EXPLORING                           │
-│   Cybersecurity        : EXPLORING                           │
-│   Projects             : FUTURE                              │
-│   Learning             : ALWAYS ON                           │
+│   Programming          : C / C++ / Python / Java             │
+│   Database             : DBMS / MySQL / SQL                  │
+│   Core CS              : DMS / CO / OS / SE / AI              │
+│   Development          : Web Technologies / OpenGL            │
+│   Tools                : VS Code / Anaconda / Git             │
+│   Linux                : EXPLORING                            │
+│   Cybersecurity        : EXPLORING                            │
+│   Projects             : FUTURE                               │
+│   Learning             : ALWAYS ON                            │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -589,13 +699,6 @@ everything is a work in progress.
 
 ```text
 $ echo "Thanks for visiting my profile."
-
-██████╗  ██╗   ██╗██╗██╗     ██████╗ 
-██╔══██╗ ██║   ██║██║██║     ██╔══██╗
-██████╔╝ ██║   ██║██║██║     ██║  ██║
-██╔══██╗ ██║   ██║██║██║     ██║  ██║
-██████╔╝ ╚██████╔╝██║███████╗██████╔╝
-╚═════╝   ╚═════╝ ╚═╝╚══════╝╚═════╝
 
 CODE • LEARN • EXPLORE • GROW 🚀
 ```
